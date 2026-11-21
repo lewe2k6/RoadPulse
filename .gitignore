@@ -1,0 +1,16 @@
+# Build intermediates
+build/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Private signing keys & sig metadata
+*.keystore
+*.jks
+*.idsig
+
+# Large raw Overpass JSON caches (compiled binary .rpoi is tracked in app/assets/)
+tools/osm_cache/
+
+# Older local drafts
+dist/RoadPulseLite-v1.0.apk

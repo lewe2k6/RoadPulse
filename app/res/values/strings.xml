@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- c:\Users\Acer\Downloads\gsm\roadpulse_lite\app\res\values\strings.xml -->
+<resources>
+    <string name="app_name">RoadPulse Lite</string>
+    <string name="notif_channel_name">Cảnh báo giao thông &amp; GPS</string>
+</resources>
